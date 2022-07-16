@@ -618,3 +618,162 @@ wget https://downloads.apache.org/tomcat/tomcat-9/v9.0.64/bin/apache-tomcat-9.0.
 tar -xvf  https://downloads.apache.org/tomcat/tomcat-9/v9.0.64/bin/apache-tomcat-9.0.64.tar.gz.sha51
 sudo tar -xvf  https://downloads.apache.org/tomcat/tomcat-9/v9.0.64/bin/apache-tomcat-9.0.64.tar.gz.sha51
 sudo tar -xvf https://downloads.apache.org/tomcat/tomcat-9/v9.0.64/bin/apache-tomcat-9.0.64.tar.gz.sha512
+cd
+ls
+rm Anil.tar
+ls
+clear
+git init
+git status
+touch green
+git status
+git add green
+git statis
+y
+git status
+git commit -m "updated"
+git remote show origin
+git branch
+git push origin main
+git push origin main
+git push origin main
+ls
+clear
+git init
+git status
+git version
+clear
+touch g
+git status
+git add ground
+git add ground
+clear
+ls
+git add g
+git status
+git status
+git commit -m "g-file"
+git status
+git remote add origin https://github.com/AnilKumarKalelynoor/d.git
+git remove remote origin
+git remote add origin https://github.com/AnilKumarKalelynoor/d.git
+git status
+git branch
+git push origin main
+git push origin main
+git push origin main
+git branch
+git push origin main
+git push origin main
+git remove remote origin
+git remote remove origin
+git remote show origin
+git remote add origin https://github.com/AnilKumarKalelynoor/d.git
+git remote show origin
+git push origin main
+git push origin main
+ssh-keygen
+cat /home/ak22132/.ssh/id_rsa.pub
+touch sai
+git commit -a -m "update'
+git commit -a -m "update"
+git push origin main
+git push origin main
+git push -u origin main
+clear
+clear
+ls
+cat sai
+ls
+clear
+touch joy
+git add .
+git commit -m "test"
+git status
+git branch
+git push origin main
+sudo useradd 
+clear
+ls
+sudo gunzip m1.gz m2.gz
+ls
+cat m1
+ls
+clear
+yum intsall git -y
+use /usr/bin/yum --help
+sudo yum install git -y
+git version
+clear
+git init
+touch Anil 
+git config --global user.name "AnilKumarKalelynoor"
+git config --global user.email "kalelynooranilkumar16@gmail.com"
+git config --list
+git init
+git init Anil
+touch anil.txt
+git status
+git add anil.txt
+git status
+git commit -m "hello"
+git branch -M main
+git remote add origin https://github.com/AnilKumarKalelynoor/
+git push -u origin main
+git remote add origin https://github.com/AnilKumarKalelynoor
+git push -u origin main
+git remote add origin https://github.com/AnilKumarKalelynoor/a.git
+git branch -M main
+git push -u origin maingit remote add origin https://github.com/AnilKumarKalelynoor/a.git
+git branch -M main
+git push -u origin maingit remote add origin https://github.com/AnilKumarKalelynoor/a.git
+git remote add origin https://github.com/AnilKumarKalelynoor/a.git
+git push -u origin main
+mkdir test
+cd test
+git init
+touch anil.txt
+git add .
+git commit -M "firt"
+git commit -m "firt"
+git branch -M main
+git remote add origin https://github.com/AnilKumarKalelynoor/a.git
+git push -u origin main
+cd
+ls
+git init
+touch anil
+git add .
+git anil.txt
+git commit -m "hello"
+clear
+ls
+git status
+git init
+git add m1
+git status
+git commit -m "Hello"
+git status
+ll
+git status
+git remote add origin https://github.com/AnilKumarKalelynoor/AnilKumarKalelynoor.git
+git branch
+git push -u origin main
+git remote show origin
+git remote remove origin
+git remote show origin
+ll
+git init
+touch blue
+git status
+git add blue
+git status
+git commit -m "Hello"
+git remote add origin
+git remote add origin https://github.com/AnilKumarKalelynoor/learning.git
+git remote show origin
+git branch
+git push origin main
+history
+clear
+sudo su root
