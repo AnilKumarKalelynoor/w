@@ -777,3 +777,50 @@ git push origin main
 history
 clear
 sudo su root
+clear
+ls
+clear
+ssh-keygen
+cat /home/ak22132/.ssh/id_rsa.pub
+git remote add origin https://github.com/AnilKumarKalelynoor/f.git
+git remote remove origin 
+git remote add origin https://github.com/AnilKumarKalelynoor/f.git
+touch yellow
+git add .
+git commit -m "updated"
+git status
+git branch
+git push origin main
+git config --global user.name "AnilKumarKalelynoor"
+git config --global user.email "kalelynooranilkumar16@gmail.com"
+git init
+touch jack
+git add jack
+git commit -m "hello"
+git brach
+git branch
+git push -u origin main
+clear
+ls
+clear
+ls
+clear
+get add anil.txt
+git add anil.txt
+git status
+git commit -m "hello"
+git branch
+git push origin main
+sudo su root
+ak22132
+cd
+ls
+clear
+ls
+sudo su root
+ls
+history
+clear
+ls
+clear
+exit
