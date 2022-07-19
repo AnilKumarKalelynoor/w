@@ -824,3 +824,97 @@ clear
 ls
 clear
 exit
+cd
+ls
+clear
+sudo su root 
+cd
+clear
+git status
+git add
+git add .
+git commit -m "Hello"
+git status
+clear
+git status
+git status
+git remote show origin
+git branch
+git push origin main
+clear 
+git push origin main
+l
+ls
+git remote remove origin
+git remote show origin
+git remote add origin https://github.com/AnilKumarKalelynoor/hello.git
+touch sai
+git add sai
+git commit -m "Updated"
+git branch
+git push origin main
+git push origin main
+git pull origin https://github.com/AnilKumarKalelynoor/hello.git
+git pull origin https://github.com/AnilKumarKalelynoor/hello.git
+git pull origin https://github.com/AnilKumarKalelynoor/hello.git
+git fetch https://github.com/AnilKumarKalelynoor/hello.git
+git pull origin https://github.com/AnilKumarKalelynoor/hello.git
+git fetch https://github.com/AnilKumarKalelynoor/hello.git
+git merge 
+git merge https://github.com/AnilKumarKalelynoor/hello.git
+git push origin main
+git pull -u origin main
+git pull -u origin https://github.com/AnilKumarKalelynoor/hello.git
+git pull -u origin git@github.com:AnilKumarKalelynoor/hello.git
+git pull -u origin https://github.com/AnilKumarKalelynoor/hello.git
+git pull origin https://github.com/AnilKumarKalelynoor/hello.git
+git clone https://github.com/AnilKumarKalelynoor/hello.git
+git pull origin https://github.com/AnilKumarKalelynoor/hello.git
+git remote show origin
+git pull origin main
+git push origin main
+git push origin main
+history
+clear
+ls
+clear
+cd
+ls
+clar
+clear
+git init
+git branch
+git pull origin main
+git remove -d hello
+git --help
+git rm -d  hello
+git branch
+git rm -d -r hello
+clear
+git branch
+git remote  show origin 
+git branch anil
+git branch
+git checkout anil
+git branch
+ cp main anil
+git remote add origin https://github.com/AnilKumarKalelynoor/Bro.git
+git remote show
+git remote show origin
+git clone https://github.com/AnilKumarKalelynoor/Bro.git
+git remote show origin
+git clone https://github.com/AnilKumarKalelynoor/hello.git
+git remote show origin
+git remote add origin https://github.com/AnilKumarKalelynoor/Bro.git
+git remote remove origin https://github.com/AnilKumarKalelynoor/Bro.git
+git remote remove origin
+git remote show origin
+git remote add origin https://github.com/AnilKumarKalelynoor/Bro.git
+git remote show origin
+git branch
+git pull https://github.com/AnilKumarKalelynoor/Bro.git
+clear
+ls
+cleare
+clear
+exit
