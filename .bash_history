@@ -918,3 +918,12 @@ ls
 cleare
 clear
 exit
+clear
+ll
+ls
+touch sajja
+git add .
+git commit -m "message"
+git status
+git branch
+git push origin anil
