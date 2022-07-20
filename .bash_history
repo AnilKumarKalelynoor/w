@@ -1,210 +1,3 @@
-sudo su root
-sudo su root
-exit
-ls
-mkdir Anil {1....10}
-ls
-ll
-touch bansi
-ll
-vi bansi
-cat bansi
-chmod 000 bansi 
-ll
-vi bansi 
-chmod 777 bansi 
-ll
-cat bansi 
-vi bansi 
-cat bansi 
-ll
-ll bansi 
-chmod 740 bansi 
-ll bansi 
-chmod 000 bansi 
-ll
-chmod 700 bansi 
-ll bansi 
-chmod 740 bansi 
-ll
-vi bansi 
-cat bansi
-chmod 400 bansi 
-vi bansi 
-ls
-touch naresh
-ls 
-cat bansi>> naresh
-ls
-cat naresh
-vi bansi
-mv bansi naresh
-cat naresh
-cat bansi
-cp naresh bansi
-cat bansi
-cat naresh
-cat bansi>naresh
-cat bansi>>naresh
-cat bansi>> naresh
-ll
-chmod 777 bansi naresh 
-ll
-vi bansi 
-cat > Bansi lal
-cat >> Bansi
-cat bansi
-cat Bansi
-ls
-anil
-cd Anil
-pwd
-cd 
-pwd
-cd /Anil/Bansi
-cd /Anil/Bansi/
-ll Bansi
-chmod 777 Bansi
-ls
-chmod
-chmod bansi 
-clear
-ll
-vi anil.sh
-ll
-./anil.sh
-sudo ./anil.sh
-exit
-ak22132
-ls
-clear
-touch anil bansi naresh chintu 
-touch anil
-cd
-touch anil bansi naresh chintu 
-ls
-cat anil.sh
-cat anil
-cat bansi
-cat chintu
-cat naresh 
-cat anil.sh
-vi anil.sh
-./anil.sh
-ls
-pwd
-mkdir Anil
-pwd
-ls
-mv ./Anil anil anil.sh bansi chintu naresh
-ls
-mv ./Anil/* ./anil.sh/
-ls
-mv ./{anil,anil.sh,bansi,chintu} ./Anil/
-ll
-pwd
-cd Anil
-ls
-pwd
-cd
-pwd
-cd Anil
-clear 
-ls
-pws
-pw
-pwd
-clear
-cd
-pwd
-ls
-mv ./{naresh} ./Anil
-ls
-mv ./{naresh} ./Anil/
-mv ./naresh  ./Anil/
-ls
-cd Anil 
-ls
-cat anil.sh
-vi anil.sh
-./anil.sh
-ls
-cat anil
-cat bansi
-cat anil.sh
-cat naresh
-cat bansi
-exit
-ls
-history
-clear
-ls
-vi anil.sh
-sh anil.sh
-ls
-vi anil.sh
-sh anil.sh
-l
-ls
-pwd
-cd../
-cd..
-cd
-pwd
-cd home
-ls
-rmdir Anil
-ls
-rmdir{1....10}
-rmdir {1....10}
-ls
-clear
-ls
-vi anil.sh
-./anil.sh
-chsh -l
-sudo su root
-exit
-cd
-ls
-ll malliks
-mallika
-ll mallika
-chmod 777 mallika
-ll mallika
-chmod 777 mallika
-ll mallika
-;;
-ll
-ll mallika
-ll mallika/
-ll mallika
-ll m
-clear 
-ls
-cat Anil
-cat bansi
-cat >> Anil
-cd Anil
-ls
-cat anil
-grep "hello" anil
-ls
-cat anil
-CAT ANIL
-cat bansi1
-cp anil bansi1
-cat bansi1
-grep "hello" anil bansi1
-cp bansi2
-cp bansi1 bansi2
-cat bansi2
-cp bansi1 bansi2 bansi3 bansi4
-ls
-exit
-ls
-clea
-clear
 ls
 ls
 cd ak22132
@@ -927,3 +720,281 @@ git commit -m "message"
 git status
 git branch
 git push origin anil
+ll
+git remote remove origin
+git remote show origin
+git remote add origin https://github.com/AnilKumarKalelynoor/learning.git
+git pull https://github.com/AnilKumarKalelynoor/learning.git
+git clone https://github.com/AnilKumarKalelynoor/learning.git
+git pull https://github.com/AnilKumarKalelynoor/learning.git
+git status
+git add .
+git commit -m "mesage"
+git branch
+git push origin anil
+git remote remove origin
+git remote add origin https://github.com/AnilKumarKalelynoor/go.githttps://github.com/AnilKumarKalelynoor/go.git
+touch sajja
+git status
+git branch
+git checkout main
+git branch
+ls
+git checkout anil
+ls
+git status
+git push origin anil
+git branch
+git remote show origin
+git remote remove origin
+git remote show origin
+git remote add origin https://github.com/AnilKumarKalelynoor/go.git
+git remote show origin
+git push origin main
+git status
+git log
+ll
+vi sajja
+git status
+git add .
+git status
+git commit -m "gir"
+git status
+git branch
+git push origin anil
+clear
+git init
+git remote show origin
+ls
+git remote remove origin
+git remote show origin
+git remote add origin https://github.com/AnilKumarKalelynoor/learning.git
+git remote show origin
+touch testing
+ls
+git add testing
+git commit -m "Testing"
+git branch
+git checkout main
+git branch
+git checkout master
+git branch
+git checkout main
+error: Your local changes to the following files would be overwritten by checkout:
+        .bash_history
+Please, commit your changes or stash them before you can switch branches.
+git status
+git add testing
+git commit -m "testing"
+git push 
+clear
+git remote show origin
+git remote remove origin
+git remote show origin
+git remote add https://github.com/AnilKumarKalelynoor/learning.git
+git remote show origin
+git remote add -M https://github.com/AnilKumarKalelynoor/learning.git
+git remote add -f  https://github.com/AnilKumarKalelynoor/learning.git
+git remote add --f  https://github.com/AnilKumarKalelynoor/learning.git
+git remote add --m  https://github.com/AnilKumarKalelynoor/learning.git
+git remote show origin
+git remote add origin https://github.com/AnilKumarKalelynoor/learning.git
+git remote show origin
+git init
+ls
+git add hello
+git commit -m "Updated"
+git branch
+git push 
+cleaer
+clear
+ls
+git init
+git branch
+git pull https://github.com/AnilKumarKalelynoor/testing.git
+ls
+git checkout anil
+cd
+ls
+find / -name "anil"
+fing /home -name anil
+find /homw -name anil
+find /home -name anil
+sudo find /home -iname anil
+git checkout ak22132
+git checkout /home/ak22132/anil
+git pull origin anil
+git remote remove origin 
+git remote add origin https://github.com/AnilKumarKalelynoor/testing.git
+git remote show origin
+git pull origin
+git branch
+ls
+clear
+git branch
+ls
+rm anil
+ls
+rmdir Anil
+sudo rm -r Anil
+ls
+rm anil.txt 
+ls
+rm apache-tomcat-9.0.64.tar.gz.sha512
+ls
+rm sajja
+rm blud
+rm blue
+rm g
+rm green
+rm hello
+sudo rmdir hello
+sudo rm hello
+ls
+cat hello
+rmdir hello
+sudo rmdir hello
+sudo rm -r hello
+ls
+sudo rm -r bansi
+rmdir -r Bro
+sudo rmdir -r Bro
+sudo rmdir --r Bro
+ls
+rmdir Bro
+ls
+clea
+clear
+git remote show origin
+git init
+ls
+git Bro
+git add Bro
+git commit -m "testing"
+git branch
+git push anil
+git config --global push.default matching
+git branch
+git push anil
+git push testing
+clear
+ls
+git init
+git add Bro
+git commit -m "testing"
+git branch
+git branch -M "main"
+git remote add origin https://github.com/AnilKumarKalelynoor/testing.git
+git remote show origin
+git push -u origin "main"
+cleadr
+clear
+ls
+cat
+clear
+cat Bro
+ls
+sudo rmdir -r Bro
+rmdir --help
+ll Bro
+ll
+ls
+git init
+git add Bro
+git commit -m "Anil"
+git branch
+git remote show origin
+git push -u origin "main"
+ls
+git branch
+git push -u origin "main"
+clear
+ls
+cd Bro
+ls
+cd
+ls
+git add Bro
+git commit -m "hello"
+git branch
+git push -u origin main
+git remote remove origin
+git remote add origin https://github.com/AnilKumarKalelynoor/a.git
+git push -u origin main
+clear
+git remote show origin
+git remote remove origin
+git remote add origin https://github.com/AnilKumarKalelynoor/a.git
+git remote show origin
+ls
+git add joy
+git commit -m "hello"
+git branch
+git push -u origin main
+ls
+rm -r ak22132
+cd
+pwd
+ls
+rm jack
+rm joy
+rm Hello
+rm Bro
+sudo rmdir Bro
+sudo rm -r Bro
+ls
+rmdir chintu
+ll learning
+ll
+rm learning
+sudo rm -r learning
+ls
+clea
+clear
+ls
+rm m1
+rm m2
+rm m4
+rm m5.sh
+sudo rm -r mallika 
+sudo rm -r naresh
+ls
+sudo rm -r test 
+ls
+mkdir test
+cd test
+touch anil
+ls
+cd 
+ls
+git status
+git pull https://github.com/AnilKumarKalelynoor/v.git
+git clone https://github.com/AnilKumarKalelynoor/v.git
+git init
+git add test 
+git commit -m "update"
+git branch
+git push -u origin main
+git remote remove origin
+git remote add origin https://github.com/AnilKumarKalelynoor/v.git
+git remote show origin
+git push -u origin main
+clear
+git clone https://github.com/AnilKumarKalelynoor/e.git
+git pull https://github.com/AnilKumarKalelynoor/e.git
+clear
+ls
+cd e
+ls
+mv sai e
+mv ls
+ls
+cd
+ls
+mv sai e
+ls
+cd e
+ls
+cd
+clear
+exit
